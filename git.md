@@ -1,4 +1,4 @@
-# [⬅ Back	](https://github.com/doniurek/commands)
+# [⬅ Back	](README.md)
 # Git commands
 
 ## Basic
