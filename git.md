@@ -42,4 +42,4 @@
 
 `git merge origin/master` Merges origin/master into your local branch
 
-`git push origin <branch_name>` Pushes a local branch to the origin remote
+`git push origin <branch_name>` Pushes a local branch to the origin remote (or just `git push` if you have enabled setting to push only the branch you are currently on)
