@@ -20,9 +20,9 @@
 | `crontab` | Schedule periodic background work |
 | [`csplit`](csplit.md) | Split files based on context |
 | [`cut`](cut.md) | Cut out selected fields of each line of a file |
-| `date` | |
-| `dd` | |
-| `df` | |
+| `date` | Print or set the system date and time |
+| `dd` | Convert and copy a file |
+| [`df`](df.md) | Report free disk space |
 | `diff` | |
 | `dirname` | |
 | `du` | |
