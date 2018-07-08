@@ -16,7 +16,7 @@
 | [`cmp`](cmp.md) | Compare two files |
 | [`comm`](comm.md) | Compare two sorted files line by line |
 | `command` | Execute a simple command |
-| `cp` | |
+| [`cp`](cp.md) | Copy files and directories |
 | `crontab` | |
 | `csplit` | |
 | `cut` | |
