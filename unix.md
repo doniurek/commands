@@ -19,7 +19,7 @@
 | [`cp`](cp.md) | Copy files and directories |
 | `crontab` | Schedule periodic background work |
 | [`csplit`](csplit.md) | Split files based on context |
-| `cut` | |
+| [`cut`](cut.md) | Cut out selected fields of each line of a file |
 | `date` | |
 | `dd` | |
 | `df` | |
