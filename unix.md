@@ -24,8 +24,8 @@
 | `dd` | Convert and copy a file |
 | [`df`](df.md) | Report free disk space |
 | [`diff`](diff.md) | Compare two files |
-| `dirname` | |
-| `du` | |
+| `dirname` | Return the directory portion of a pathname |
+| [`du`](du.md) | Estimate file space usage |
 | `echo` | |
 | `ed` | |
 | `env` | |
