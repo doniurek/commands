@@ -23,7 +23,7 @@
 | `date` | Print or set the system date and time |
 | `dd` | Convert and copy a file |
 | [`df`](df.md) | Report free disk space |
-| `diff` | |
+| [`diff`](diff.md) | Compare two files |
 | `dirname` | |
 | `du` | |
 | `echo` | |
