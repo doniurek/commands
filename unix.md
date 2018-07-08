@@ -29,8 +29,8 @@
 | [`echo`](echo.md) | Write arguments to standard output	|
 | `ed` | The standard text editor |
 | [`env`](env.md) | Set the environment for command invocation	|
-| `expand` | |
-| `expr` | |
+| `expand` | Convert tabs to spaces |
+| [`expr`](expr.md) | Evaluate arguments as an expression |
 | `false` | |
 | `file` | |
 | `find` | |
