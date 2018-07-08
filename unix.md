@@ -27,8 +27,8 @@
 | `dirname` | Return the directory portion of a pathname |
 | [`du`](du.md) | Estimate file space usage |
 | [`echo`](echo.md) | Write arguments to standard output	|
-| `ed` | |
-| `env` | |
+| `ed` | The standard text editor |
+| [`env`](env.md) | Set the environment for command invocation	|
 | `expand` | |
 | `expr` | |
 | `false` | |
