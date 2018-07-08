@@ -26,7 +26,7 @@
 | [`diff`](diff.md) | Compare two files |
 | `dirname` | Return the directory portion of a pathname |
 | [`du`](du.md) | Estimate file space usage |
-| `echo` | |
+| `echo` | Write arguments to standard output	|
 | `ed` | |
 | `env` | |
 | `expand` | |
