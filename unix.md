@@ -17,8 +17,8 @@
 | [`comm`](comm.md) | Compare two sorted files line by line |
 | `command` | Execute a simple command |
 | [`cp`](cp.md) | Copy files and directories |
-| `crontab` | |
-| `csplit` | |
+| `crontab` | Schedule periodic background work |
+| [`csplit`](csplit.md) | Split files based on context |
 | `cut` | |
 | `date` | |
 | `dd` | |
