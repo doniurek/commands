@@ -31,9 +31,9 @@
 | [`env`](env.md) | Set the environment for command invocation	|
 | `expand` | Convert tabs to spaces |
 | [`expr`](expr.md) | Evaluate arguments as an expression |
-| `false` | |
-| `file` | |
-| `find` | |
+| `false` | Return false value |
+| `file` | Determine file type or encoding |
+| [`find`](find.md) | Find files|
 | `fold` | |
 | `gencat` | |
 | `getconf` | |
