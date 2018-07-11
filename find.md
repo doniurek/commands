@@ -2,18 +2,18 @@
 # `find`
 Find files
 
-`find` searches the  directory tree rooted at each given starting-point. If  no  starting-point  is specified, '.' (current directory) is assumed.
+`find` searches the directory tree rooted at each given starting-point. If no starting-point is specified, '.' (current directory) is assumed.
 
 `find [-H / -L / -P] <path> [expression]`
 The three options control how the `find` command should treat symbolic links. The default behaviour is never to follow symbolic links. This can be explicitly specified using the `-P` flag. The `-L` flag will cause the find command to follow symbolic links. The `-H` flag will only follow symbolic links while processing the command line arguments.
 
-Expression elements are whitespace-separated and evaluated from left to right. They can contain logical elements such.
+Expression elements are whitespace-separated and evaluated from left to right. They can contain logical elements.
 An expression is composed of a sequence of things:
 - Tests
 - Actions
 - Global options
 - Positional options
-- Operators
+- Logical operators
 
 ## Options
 ### Tests
@@ -64,9 +64,20 @@ The `+` and `-` prefixes signify greater than and less than.
 
 `-fprint <file>` Print the full file name into file file.
 
+### Global options
+Global options take effect even for tests which occur earlier on the command line so they should be specified on the command-line just after `<path>`
+
+`-depth` Process each directory's contents before the  directory itself.
+
+`-maxdepth <level>` Descend at most &lt;level&gt; of directories below the starting-points, e.g. `-maxdepth 0` means only apply the tests and actions to the starting-points themselves.
+
+`-mindepth <level>` Do not apply any tests or actions at levels less than &lt;level&gt;, e.g. `-mindepth 1` means process all files except the starting-points.
+
+`-noleaf` Omit leaves.
+
 ## Examples
 `find /var/ftp/mp3 -name '*.mp3' -type f -exec chmod 644 {} \;`
-This command changes the permissions of all regular files whose names end with .mp3 in the directory tree /var/ftp/mp3
+Changes the permissions of all regular files whose names end with .mp3 in the directory tree /var/ftp/mp3
 
 `find . -size +100k -a -size -500k`
 Searching files whose size is between 100 kilobytes and 500 kilobytes
