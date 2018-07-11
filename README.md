@@ -1,5 +1,5 @@
 # commands
 Useful commands
 
-[⚫ git](git.md)
-[⚫ Unix](unix.md)
+- [git](git.md)
+- [Unix](unix.md)
