@@ -34,7 +34,7 @@
 | `false` | Return false value |
 | `file` | Determine file type or encoding |
 | [`find`](find.md) | Find files|
-| `fold` | |
+| [`fold`](fold.md) | Wrap each input line to fit in specified width|
 | `gencat` | |
 | `getconf` | |
 | `getopts` | |
