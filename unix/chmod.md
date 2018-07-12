@@ -1,4 +1,4 @@
-# [⬅ Back	to Unix commands](Unix.md)
+# [⬅ Back	to Unix commands](unix.md)
 # `chmod`
 Change the file modes/attributes/permissions
 

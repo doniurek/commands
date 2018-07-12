@@ -1,4 +1,4 @@
-# [⬅ Back	to Unix commands](Unix.md)
+# [⬅ Back	to Unix commands](unix.md)
 # `cut`
 Cut out (print) selected fields __of each line__ of a file
 

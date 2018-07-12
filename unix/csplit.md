@@ -1,4 +1,4 @@
-# [⬅ Back	to Unix commands](Unix.md)
+# [⬅ Back	to Unix commands](unix.md)
 # `csplit`
 Split files based on context
 

@@ -1,4 +1,4 @@
-# [⬅ Back	to Unix commands](Unix.md)
+# [⬅ Back	to Unix commands](unix.md)
 # `chown`
 Change the user and/or group ownership of each given file
 

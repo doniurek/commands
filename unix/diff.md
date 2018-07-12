@@ -1,4 +1,4 @@
-# [⬅ Back	to Unix commands](Unix.md)
+# [⬅ Back	to Unix commands](unix.md)
 # `diff`
 Compare files line by line
 
@@ -61,4 +61,4 @@ lel
   huehue
   lel
 \+ lel
-\+ 
+\+
