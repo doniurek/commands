@@ -35,12 +35,12 @@
 | `file` | Determine file type or encoding |
 | [`find`](find.md) | Find files|
 | [`fold`](fold.md) | Wrap each input line to fit in specified width|
-| `gencat` | Generate a formatted message catalog |
+| `gencat` | ?Generate a formatted message catalog? |
 | `getconf` | Get configuration values |
-| `getopts` | Parse command-line arguments |
+| `getopt(s)` | Parse command-line arguments |
 | [`grep`](grep.md) | Search text for a pattern |
-| `hash` | |
-| `head` | |
+| `hash` | Show or refresh commands paths cache |
+| [`head`](head.md) | Output the first part of files |
 | `iconv` | |
 | `id` | |
 | `join` | |
