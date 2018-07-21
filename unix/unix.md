@@ -54,10 +54,9 @@
 | [`ls`](ls.md) | List directory contents |
 | `m4` | Macro processor |
 | `mailx` | Send and receive mail |
-| [`man`](man.md) | Display system documentation
-|
-| `mesg` | |
-| `mkdir` | |
+| [`man`](man.md) | Display system documentation |
+| `mesg` | Display (or do not) messages from other users |
+| [`mkdir`](mkdir.md) | Make directories |
 | `mkfifo` | |
 | `mv` | |
 | `newgrp` | |
