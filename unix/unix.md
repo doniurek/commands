@@ -42,8 +42,8 @@
 | `hash` | Show or refresh commands paths cache |
 | [`head`](head.md) | Output the first part of files |
 | [`iconv`](iconv.md) | Convert text from one character encoding to another |
-| `id` | |
-| `join` | |
+| `id` | Print real and effective user and group IDs |
+| [`join`](join.md) | Merges the lines of two sorted text files based on the presence of a common field |
 | `kill` | |
 | `ln` | |
 | `locale` | |
