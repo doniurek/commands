@@ -41,7 +41,7 @@
 | [`grep`](grep.md) | Search text for a pattern |
 | `hash` | Show or refresh commands paths cache |
 | [`head`](head.md) | Output the first part of files |
-| `iconv` | |
+| [`iconv`](iconv.md) | Convert text from one character encoding to another |
 | `id` | |
 | `join` | |
 | `kill` | |
