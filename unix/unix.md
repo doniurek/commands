@@ -52,9 +52,10 @@
 | `logname` | Return the user's login name |
 | [`lp`](lp.md) | Send files to a printer |
 | [`ls`](ls.md) | List directory contents |
-| `m4` | |
-| `mailx` | |
-| `man` | |
+| `m4` | Macro processor |
+| `mailx` | Send and receive mail |
+| [`man`](man.md) | Display system documentation
+|
 | `mesg` | |
 | `mkdir` | |
 | `mkfifo` | |
