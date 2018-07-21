@@ -28,5 +28,5 @@ simon,blue,nuggets,coffee
 >ann,158,67,158,white,pizza,tea
 john,175,100,148,green,dumplings,coke
 
-##Comments
+## Comments
 &lt;file1&gt; and &lt;file2&gt; must be sorted on the join fields!
