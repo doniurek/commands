@@ -45,7 +45,7 @@
 | `id` | Print real and effective user and group IDs |
 | [`join`](join.md) | Merges the lines of two sorted text files based on the presence of a common field |
 | [`kill`](kill.md) | Terminate or signal processes |
-| `ln` | |
+| [`ln`](ln.md) | Make links between files |
 | `locale` | |
 | `localedef` | |
 | `logger` | |
