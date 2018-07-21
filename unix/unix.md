@@ -44,7 +44,7 @@
 | [`iconv`](iconv.md) | Convert text from one character encoding to another |
 | `id` | Print real and effective user and group IDs |
 | [`join`](join.md) | Merges the lines of two sorted text files based on the presence of a common field |
-| `kill` | |
+| [`kill`](kill.md) | Terminate or signal processes |
 | `ln` | |
 | `locale` | |
 | `localedef` | |
