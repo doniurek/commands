@@ -46,11 +46,11 @@
 | [`join`](join.md) | Merges the lines of two sorted text files based on the presence of a common field |
 | [`kill`](kill.md) | Terminate or signal processes |
 | [`ln`](ln.md) | Make links between files |
-| `locale` | |
-| `localedef` | |
-| `logger` | |
-| `logname` | |
-| `lp` | |
+| `locale` | Get locale-specific information |
+| `localedef` | Compile locale definition files|
+| `logger` | Enter messages to system log or to specified file |
+| `logname` | Return the user's login name |
+| [`lp`](lp.md) | Send files to a printer |
 | `ls` | |
 | `m4` | |
 | `mailx` | |
