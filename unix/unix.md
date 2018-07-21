@@ -57,8 +57,8 @@
 | [`man`](man.md) | Display system documentation |
 | `mesg` | Display (or do not) messages from other users |
 | [`mkdir`](mkdir.md) | Make directories |
-| `mkfifo` | |
-| `mv` | |
+| `mkfifo` | Make FIFO (*first in, first out*) special files - pipes |
+| [`mv`](mv.md) | Move or rename files |
 | `newgrp` | |
 | `nice` | |
 | `nohup` | |
