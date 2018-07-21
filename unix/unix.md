@@ -51,7 +51,7 @@
 | `logger` | Enter messages to system log or to specified file |
 | `logname` | Return the user's login name |
 | [`lp`](lp.md) | Send files to a printer |
-| `ls` | |
+| [`ls`](ls.md) | List directory contents |
 | `m4` | |
 | `mailx` | |
 | `man` | |
