@@ -59,8 +59,8 @@
 | [`mkdir`](mkdir.md) | Make directories |
 | `mkfifo` | Make FIFO (*first in, first out*) special files - pipes |
 | [`mv`](mv.md) | Move or rename files |
-| `newgrp` | |
-| `nice` | |
+| `newgrp` | Log in to a new group |
+| [`nice`](nice.md) | Run a program with modified scheduling priority |
 | `nohup` | |
 | `od` | |
 | `paste` | |
