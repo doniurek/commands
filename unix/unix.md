@@ -64,12 +64,12 @@
 | `nohup` | Run a command immune to hangups |
 | `od` | Dump files in octal and other formats |
 | [`paste`](paste.md) | Merge corresponding or subsequent lines of files |
-| `patch` | Updates text files according to instructions contained in a *patch file* (`diff` format) |
+| `patch` | Update text files according to instructions contained in a *patch file* (`diff` format) |
 | `pathchk` | Check whether file names are valid or portable |
 | `pax` | Read and write file archives and copy directory hierarchies (supports e.g. tar format)|
 | `pr` | ?Paginate or columnate files for printing or compare two files side by side? |
 | [`printf`](printf.md) | Format and print data |
-| `ps` | |
+| `ps` | Display the currently-running processes |
 | `pwd` | |
 | `read` | |
 | `renice` | |
