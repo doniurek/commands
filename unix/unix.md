@@ -61,9 +61,9 @@
 | [`mv`](mv.md) | Move or rename files |
 | `newgrp` | Log in to a new group |
 | [`nice`](nice.md) | Run a program with modified scheduling priority |
-| `nohup` | |
-| `od` | |
-| `paste` | |
+| `nohup` | Run a command immune to hangups |
+| `od` | Dump files in octal and other formats |
+| [`paste`](paste.md) | Merge corresponding or subsequent lines of files |
 | `patch` | |
 | `pathchk` | |
 | `pax` | |
