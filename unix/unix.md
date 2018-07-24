@@ -70,8 +70,8 @@
 | `pr` | ?Paginate or columnate files for printing or compare two files side by side? |
 | [`printf`](printf.md) | Format and print data |
 | `ps` | Display the currently-running processes |
-| `pwd` | |
-| `read` | |
+| `pwd` | Print the full filename of the current working directory |
+| [`read`](read.md) | Allows scripts to catch information entered by users interactively |
 | `renice` | |
 | `rm` | |
 | `rmdir` | |
