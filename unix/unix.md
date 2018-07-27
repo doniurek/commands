@@ -73,7 +73,7 @@
 | `pwd` | Print the full filename of the current working directory |
 | [`read`](read.md) | Allows scripts to catch information entered by users interactively |
 | [`renice`](renice.md) | Change priority of running processes |
-| `rm` | |
+| [`rm`](rm.md) | Remove files or directories |
 | `rmdir` | |
 | `sed` | |
 | `sh` | |
