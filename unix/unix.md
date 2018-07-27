@@ -74,7 +74,7 @@
 | [`read`](read.md) | Allows scripts to catch information entered by users interactively |
 | [`renice`](renice.md) | Change priority of running processes |
 | [`rm`](rm.md) | Remove files or directories |
-| `rmdir` | |
+| [`rmdir`](rmdir.md) | Remove empty directories |
 | `sed` | |
 | `sh` | |
 | `sleep` | |
