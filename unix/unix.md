@@ -78,7 +78,7 @@
 | `sed` | |
 | `sh` | |
 | [`sleep`](sleep.md) | Suspend program execution for a specified time |
-| `sort` | |
+| [`sort`](sort.md) | Sort, merge, or sequence check text files |
 | `split` | |
 | `strings` | |
 | `stty` | |
