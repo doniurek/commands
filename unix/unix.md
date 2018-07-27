@@ -77,7 +77,7 @@
 | [`rmdir`](rmdir.md) | Remove empty directories |
 | `sed` | |
 | `sh` | |
-| `sleep` | |
+| [`sleep`](sleep.md) | Suspend program execution for a specified time |
 | `sort` | |
 | `split` | |
 | `strings` | |
