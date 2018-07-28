@@ -82,8 +82,8 @@
 | [`split`](split.md) | Split a file into pieces |
 | [`strings`](strings.md) | Find printable strings in files |
 | `stty` | Change or print terminal line settings |
-| `tabs` | |
-| `tail` | |
+| `tabs` | Set terminal tabs |
+| `tail` | Output the last part of file |
 | `tee` | |
 | `test` | |
 | `time` | |
