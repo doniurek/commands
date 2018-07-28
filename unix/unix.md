@@ -81,7 +81,7 @@
 | [`sort`](sort.md) | Sort, merge, or sequence check text files |
 | [`split`](split.md) | Split a file into pieces |
 | [`strings`](strings.md) | Find printable strings in files |
-| `stty` | |
+| `stty` | Change or print terminal line settings |
 | `tabs` | |
 | `tail` | |
 | `tee` | |
