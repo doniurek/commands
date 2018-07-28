@@ -80,7 +80,7 @@
 | [`sleep`](sleep.md) | Suspend program execution for a specified time |
 | [`sort`](sort.md) | Sort, merge, or sequence check text files |
 | [`split`](split.md) | Split a file into pieces |
-| `strings` | |
+| [`strings`](strings.md) | Find printable strings in files |
 | `stty` | |
 | `tabs` | |
 | `tail` | |
