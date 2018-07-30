@@ -32,15 +32,18 @@ open interactive session
 `lol`
 >kek
 
-`tr 'abcdef' 'xyz'`
+`tr 'abcdef' 'xyz'`\
 `abcdef`
 >xyzzzz
 
-`tr -t 'abcdef' 'xyz'`
+`tr -t 'abcdef' 'xyz'`\
 `abcdef`
 >xyzdef
 
 `tr -cd '[:alnum:]'` removes all non-alphanumeric characters
+
+`echo "Bobby 175" | tr b m | tr -d [:digit:]`
+>Mommy
 
 ## Comments
 Sets can be *POSIX* characters sets such as [:alnum:]. Full list of interpreted sequences is available on `tr` manual.
