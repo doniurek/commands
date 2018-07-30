@@ -89,7 +89,7 @@
 | [`time`](time.md) | Report the duration of execution of a particular command |
 | [`touch`](touch.md) | Update file access and modification times to the current time |
 | `tput` | |
-| `tr` | |
+| [`tr`](tr.md) | Translate or delete characters |
 | `true` | |
 | `tsort` | |
 | `tty` | |
