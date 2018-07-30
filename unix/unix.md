@@ -86,7 +86,7 @@
 | [`tail`](tail.md) | Output the last part of file |
 | [`tee`](tee.md) | Read from standard input and write to standard output and files |
 | `test` | |
-| `time` | |
+| [`time`](time.md) | Report the duration of execution of a particular command |
 | `touch` | |
 | `tput` | |
 | `tr` | |
