@@ -87,7 +87,7 @@
 | [`tee`](tee.md) | Read from standard input and write to standard output and files |
 | `test` | |
 | [`time`](time.md) | Report the duration of execution of a particular command |
-| `touch` | |
+| [`touch`](touch.md) | Update file access and modification times to the current time |
 | `tput` | |
 | `tr` | |
 | `true` | |
