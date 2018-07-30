@@ -39,3 +39,10 @@ But it will be San Francisco
 
 `cat test2.txt`
 >But it will be San Francisco
+
+`echo -e "Ann 158\nBob 175\nGreg 179" | grep 17[0-9] | tee testee.txt | grep Greg`
+>Greg 179
+
+`cat testee.txt `
+>Bob 175\
+Greg 179
