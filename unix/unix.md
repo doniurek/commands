@@ -83,8 +83,8 @@
 | [`strings`](strings.md) | Find printable strings in files |
 | `stty` | Change or print terminal line settings |
 | `tabs` | Set terminal tabs |
-| `tail` | Output the last part of file |
-| `tee` | |
+| [`tail`](tail.md) | Output the last part of file |
+| [`tee`](tee.md) | Read from standard input and write to standard output and files |
 | `test` | |
 | `time` | |
 | `touch` | |
