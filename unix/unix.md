@@ -75,7 +75,6 @@
 | [`renice`](renice.md) | Change priority of running processes |
 | [`rm`](rm.md) | Remove files or directories |
 | [`rmdir`](rmdir.md) | Remove empty directories |
-| `sed` | |
 | `sh` | Run shell language interpreter |
 | [`sleep`](sleep.md) | Suspend program execution for a specified time |
 | [`sort`](sort.md) | Sort, merge, or sequence check text files |
@@ -88,12 +87,12 @@
 | [`test`](test.md) | Evaluate expressions - compare values and check file types |
 | [`time`](time.md) | Report the duration of execution of a particular command |
 | [`touch`](touch.md) | Update file access and modification times to the current time |
-| `tput` | |
+| `tput` | Terminal multifunctional utility |
 | [`tr`](tr.md) | Translate or delete characters |
-| `true` | |
-| `tsort` | |
-| `tty` | |
-| `umask` | |
+| `true` | Return true value |
+| `tsort` | Perform topological sort |
+| `tty` | Print the file name of the terminal connected to standard input |
+| [`umask`](umask.md) | Get or set the file creation mask |
 | `unalias` | |
 | `uname` | |
 | `unexpand` | |
@@ -108,3 +107,4 @@
 
 | `awk` | |
 | `bc` | |
+| `sed` | |
