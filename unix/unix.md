@@ -85,7 +85,7 @@
 | `tabs` | Set terminal tabs |
 | [`tail`](tail.md) | Output the last part of file |
 | [`tee`](tee.md) | Read from standard input and write to standard output and files |
-| `test` | |
+| [`test`](test.md) | Evaluate expressions - compare values and check file types |
 | [`time`](time.md) | Report the duration of execution of a particular command |
 | [`touch`](touch.md) | Update file access and modification times to the current time |
 | `tput` | |
