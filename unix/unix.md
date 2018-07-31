@@ -95,7 +95,7 @@
 | [`umask`](umask.md) | Get or set the file creation mask |
 | [`unalias`](unalias.md) | Remove alias definitions |
 | [`uname`](uname.md) | Print system information |
-| `unexpand` | |
+| [`unexpand`](unexpand.md) | Convert spaces to tabs |
 | `uniq` | |
 | `uudecode` | |
 | `uuencode` | |
