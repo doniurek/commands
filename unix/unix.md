@@ -96,7 +96,7 @@
 | [`unalias`](unalias.md) | Remove alias definitions |
 | [`uname`](uname.md) | Print system information |
 | [`unexpand`](unexpand.md) | Convert spaces to tabs |
-| `uniq` | |
+| [`uniq`](uniq.md) | Report or omit repeated lines |
 | `uudecode` | |
 | `uuencode` | |
 | `wait` | |
