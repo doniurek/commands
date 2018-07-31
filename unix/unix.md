@@ -97,9 +97,9 @@
 | [`uname`](uname.md) | Print system information |
 | [`unexpand`](unexpand.md) | Convert spaces to tabs |
 | [`uniq`](uniq.md) | Report or omit repeated lines |
-| `uudecode` | |
-| `uuencode` | |
-| `wait` | |
+| `uudecode` | Decode a binary file |
+| `uuencode` | Encode a binary file |
+| [`wait`](wait.md) | Suspend execution of the calling process until one of its children (background process) terminates |
 | `wc` | |
 | `who` | |
 | `write` | |
