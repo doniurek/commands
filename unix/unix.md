@@ -93,7 +93,7 @@
 | `tsort` | Perform topological sort |
 | `tty` | Print the file name of the terminal connected to standard input |
 | [`umask`](umask.md) | Get or set the file creation mask |
-| `unalias` | |
+| [`unalias`](unalias.md) | Remove alias definitions |
 | `uname` | |
 | `unexpand` | |
 | `uniq` | |
