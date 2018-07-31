@@ -94,7 +94,7 @@
 | `tty` | Print the file name of the terminal connected to standard input |
 | [`umask`](umask.md) | Get or set the file creation mask |
 | [`unalias`](unalias.md) | Remove alias definitions |
-| `uname` | |
+| [`uname`](uname.md) | Print system information |
 | `unexpand` | |
 | `uniq` | |
 | `uudecode` | |
