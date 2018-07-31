@@ -3,7 +3,7 @@
 Define or display aliases
 
 ## Examples
-`alias smile='echo ":)"`
+`alias smile='echo ":)"'`
 then if you type `smile` the output is:
 > :)
 
