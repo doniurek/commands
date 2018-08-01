@@ -102,7 +102,7 @@
 | [`wait`](wait.md) | Suspend execution of the calling process until one of its children (background process) terminates |
 | [`wc`](wc.md) | Print newline, word, and byte counts for each file |
 | [`who`](who.md) | Show who is logged on |
-| `write` | |
+| [`write`](write.md) | Send a message to another user's terminal |
 | `xargs` | . |
 
 | `awk` | |
