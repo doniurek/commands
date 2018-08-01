@@ -100,7 +100,7 @@
 | `uudecode` | Decode a binary file |
 | `uuencode` | Encode a binary file |
 | [`wait`](wait.md) | Suspend execution of the calling process until one of its children (background process) terminates |
-| `wc` | |
+| [`wc`](wc.md) | Print newline, word, and byte counts for each file |
 | `who` | |
 | `write` | |
 | `xargs` | . |
