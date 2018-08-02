@@ -103,8 +103,6 @@
 | [`wc`](wc.md) | Print newline, word, and byte counts for each file |
 | [`who`](who.md) | Show who is logged on |
 | [`write`](write.md) | Send a message to another user's terminal |
-| `xargs` | . |
+| [`xargs`](xargs.md) | Convert input from standard input into arguments to a command |
 
-| `awk` | |
-| `bc` | |
-| `sed` | |
+\+ awk, bc, sed
