@@ -21,11 +21,15 @@ fi
 
 `./test.sh`\
 `7`
->digit
+```
+digit
+```
 
 `./test.sh`\
 `27`
->numeral
+```
+numeral
+```
 
 `cat test2.sh`
 ```bash
@@ -42,7 +46,9 @@ fi
 
 `./test2.sh`\
 `~/somedirectory/somefile.txt ~/somedirectory/someotherfile.txt`
->File1 is older than file2
+```
+File1 is older than file2
+```
 
 ## Comments
 For full list of possible expressions which `test` can evaluate check `test` manual
