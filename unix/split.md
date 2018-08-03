@@ -28,7 +28,7 @@ Default size is 1000 lines, and default prefix is 'x'
 
 `-t <separator>` use &lt;separator&gt; instead of newline as the record separator
 
-## Example
+## Examples
 `split -dn l/4 test.txt part`
 split file test.txt into 4 files: part00, part01, part02, part03 without splitting lines
 
