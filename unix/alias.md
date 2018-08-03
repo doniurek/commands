@@ -2,7 +2,7 @@
 # `alias`
 Define or display aliases
 
-## Examples
+## Example
 `alias smile='echo ":)"'`
 then if you type `smile` the output is:
 > :)
