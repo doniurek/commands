@@ -23,10 +23,16 @@ Print system information
 
 ## Example
 `uname -s`
->Linux
+```
+Linux
+```
 
 `uname -v`
->#157-Ubuntu SMP Thu Jul 12 15:51:36 UTC 2018
+```
+#157-Ubuntu SMP Thu Jul 12 15:51:36 UTC 2018
+```
 
 `uname -o`
->GNU/Linux
+```
+GNU/Linux
+```
