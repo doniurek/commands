@@ -13,7 +13,7 @@ Translate or delete characters
 
 `-s` first truncate &lt;set1&gt; to length of &lt;set2&gt;
 
-## Example
+## Examples
 `tr -d 'ek'`
 open interactive session
 
