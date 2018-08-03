@@ -32,7 +32,7 @@ Write sorted concatenation of all &lt;file(s)&gt; to standard output
 
 `-o <file> `write result to &lt;file&gt; instead of standard output
 
-## Example
+## Examples
 `cat zipcode`
 ```
 Adam  12345
