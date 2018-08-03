@@ -9,8 +9,12 @@ Remove alias definitions
 ## Example
 `alias smile='echo ":)"'`\
 `smile`
->:)
+```
+:)
+```
 
 `unalias smile`\
 `smile`
->bash: smile: command not found
+```
+bash: smile: command not found
+```
