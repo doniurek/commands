@@ -15,21 +15,16 @@ Display system documentation
 
 ## Example
 `man -f intro` Display a short description from the manual  pages of *intro*
->intro (7)            - introduction to overview, conventions, and miscellany section
-
->intro (5)            - introduction to file formats
-
->intro (6)            - introduction to games
-
->intro (2)            - introduction to system calls
-
->intro (8)            - introduction to administration and privileged commands
-
->intro (4)            - introduction to special files
-
->intro (1)            - introduction to user commands
-
->intro (3)            - introduction to library functions
+```
+intro (7)            - introduction to overview, conventions, and miscellany section
+intro (5)            - introduction to file formats
+intro (6)            - introduction to games
+intro (2)            - introduction to system calls
+intro (8)            - introduction to administration and privileged commands
+intro (4)            - introduction to special files
+intro (1)            - introduction to user commands
+intro (3)            - introduction to library functions
+```
 
 `man -s 6 intro` Show "introduction to games" section
 
