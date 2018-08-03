@@ -15,9 +15,11 @@ Convert text from one character encoding to another
 
 ## Examples
 `echo dużo $ mało € scheiße α | | iconv -f UTF-8 -t ASCII//TRANSLIT`
-
->malo EUR sheisse ?
+```
+malo EUR sheisse ?
+```
 
 `echo dużo $ mało € scheiße α | | iconv -f UTF-8 -t ASCII//IGNORE`
-
->mao  sheie
+```
+mao  sheie
+```
