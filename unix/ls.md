@@ -36,6 +36,7 @@ List  information about the file(s) (the current directory by default)
 
 ## Comments
 In Ubuntu there are default aliases:
+
 `l='ls -CF'`
 
 `la='ls -A'`
