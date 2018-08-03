@@ -4,7 +4,9 @@ Change the file group ownership
 
 ## Options
 `-R` operate on files and directories recursively
+
 `-f` forge ahead with all objects even if errors occur
+
 `-v` show objects processed
 
 ## Examples
