@@ -21,12 +21,16 @@ A &lt;file&gt; argument that does not exist is created empty (unless `-c` or `-h
 
 ## Example
 `ls`
->git.md  README.md  unix
+```
+git.md  README.md  unix
+```
 
 `touch test.txt`
 
 `ls`
->git.md  README.md  test.txt  unix
+```
+git.md  README.md  test.txt  unix
+```
 
-`-touch -t 201404061230 test.txt00`
+`-touch -t 201404061230 test.txt00`\
 change access and modification times to 06.04.2014 at 12:30
