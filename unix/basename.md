@@ -5,7 +5,7 @@ Return non-directory portion of a pathname
 ## Options
 `-s <suffix>` remove suffix
 
-## Example
+## Examples
 `basename /home/donia/Desktop/something.txt`
 ```
 something.txt
