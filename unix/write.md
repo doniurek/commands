@@ -13,7 +13,7 @@ Any further lines you enter will be copied to the specified user's terminal. If 
 
 When you are done, type an **end-of-file** or interrupt character (^C). The other user will see the message **EOF** indicating that the conversation is over.
 
-## Example
+## Examples
 `write Ann`
 ```
 write: donia is logged in more than once; writing to pts/0
