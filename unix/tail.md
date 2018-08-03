@@ -17,7 +17,7 @@ Output the last part of file(s)
 
 `-v` always output headers giving file names
 
-## Example
+## Examples
 `cat test.txt`
 ```
 a
