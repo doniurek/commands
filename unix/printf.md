@@ -8,7 +8,9 @@ Format and print data
 
 ## Example
 `X=$RANDOM;printf "decimal notation: %d\nscientific notation: %e\n" $X $X`
->decimal notation: 31871\
+```
+decimal notation: 31871
 scientific notation: 3,187100e+04
+```
 
 Double `$X` because there are two format specifiers (`%d` and `%e`) in &lt;format&gt;
