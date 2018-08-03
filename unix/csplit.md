@@ -21,7 +21,8 @@ Additional
 
 ## Examples
 `cat -n test.txt`
-> 1	q
+```
+     1	q
      2	w
      3	e
      4	r
@@ -40,21 +41,27 @@ Additional
     17	j
     18	k
     19	l
+```
 
 
 `csplit test.txt 10` → split before 10th line
->18
+```
+18
 20
+```
 
 first file has 18 bytes and second has 20 bytes
 
 `ls`
-> test.txt
+```
+test.txt
 xx00
 xx01
+```
 
 `cat -n xx00`
-> 1	q
+```
+     1	q
      2	w
      3	e
      4	r
@@ -63,9 +70,11 @@ xx01
      7	u
      8	i
      9	o
+```
 
 `cat -n xx01`
->   1	p
+```
+     1	p
      2	a
      3	s
      4	d
@@ -75,6 +84,7 @@ xx01
      8	j
      9	k
     10	l
+```
 
 `csplit -f test test.txt 10`
 name of new files will be "test00" and "test01"
