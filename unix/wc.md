@@ -16,7 +16,7 @@ Print newline, word, and byte counts for each file and a total line if more than
 
 Counts are printed, always in the following order: newline, word, character, byte, maximum line length.
 
-## Example
+## Examples
 `cat test.txt`
 ```
 one two
