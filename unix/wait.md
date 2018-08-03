@@ -4,7 +4,7 @@ Suspend execution of the calling process until one of its children (background p
 
 `wait <process_id>`
 
-## Example
+## Examples
 `sleep 60 &`
 ```
 [2] 10066
