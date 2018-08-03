@@ -6,7 +6,9 @@ Copy files and directories
 
 ## Options
 `-R` copy directories recursively
+
 `-u` copy  only when the SOURCE file is newer than the destination file or when the destination file is missing
+
 `-v` explain what is being done
 
 ## Examples
