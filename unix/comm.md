@@ -12,29 +12,39 @@ Compare two __sorted__ files line by line
 
 ## Examples
 `cat file1.txt`
-> apple
+```
+apple
 banana
 eggplant
+```
 
 `cat file2.txt`
-> apple
+```
+apple
 banana
 banana
 zucchini
+```
 
 `comm file1.txt file2.txt`
->                     apple
+```
+                     apple
                     banana
             banana
     eggplant
             zucchini
+```
 
 
 `comm -12 file1.txt file2.txt` Print only lines present in both file1 and file2
-> banana
+```
+banana
 zucchini
+```
 
 `comm -3 file1.txt file2.txt` Print lines in file1 not in file2, and vice versa.
-> apple
+```
+apple
 banana
 eggplant
+```
