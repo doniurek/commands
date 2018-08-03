@@ -19,31 +19,37 @@ Output the last part of file(s)
 
 ## Example
 `cat test.txt`
->a\
-b\
-c\
-d\
-e\
-f\
-g\
-h\
-i\
-j\
+```
+a
+b
+c
+d
+e
+f
+g
+h
+i
+j
 k
+```
 
 `tail -n 5 test.txt`
->g\
-h\
-i\
-j\
+```
+g
+h
+i
+j
 k
+```
 
 `tail -n +5 -v test.txt `
->==> test.txt <==\
-e\
-f\
-g\
-h\
-i\
-j\
+```
+==> test.txt <==
+e
+f
+g
+h
+i
+j
 k
+```
