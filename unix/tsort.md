@@ -2,7 +2,7 @@
 # `tsort`
 Perform topological sort
 
-## Example
+## Examples
 `cat recipe.txt `
 ```
 buy_bread slice_bread
