@@ -9,29 +9,39 @@ Merge corresponding or subsequent lines of files
 
 ## Example
 `cat name.txt`
->Ann\
-Martha\
-Jacob\
+```
+Ann
+Martha
+Jacob
 George
+```
 
 `cat number.txt`
->767\
-352\
-842\
+```
+767
+352
+842
 963
+```
 
 `paste name.txt number.txt`
->Ann &nbsp; 767\
-Martha &nbsp; 352\
-Jacob &nbsp; 842\
-George &nbsp; 963
+```
+Ann       767
+Martha    352
+Jacob     842
+George    963
+```
 
 `paste -d , name.txt number.txt `
->Ann,767\
-Martha,352\
-Jacob,842\
+```
+Ann,767
+Martha,352
+Jacob,842
 George,963
+```
 
 `paste -s name.txt number.txt`
->Ann &nbsp; Martha &nbsp; Jacob &nbsp; George\
-767 &nbsp; 352 &nbsp;&nbsp; 842 &nbsp;&nbsp; 963
+```
+Ann   Martha  Jacob  George
+767   352     842    963
+```
