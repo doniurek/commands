@@ -15,18 +15,24 @@ The default join field is the first, delimited by blanks.
 
 ## Examples
 `cat test1.txt`
->ann,158,67,158
+```
+ann,158,67,158
 bob,189,88,120
 john,175,100,148
+```
 
 `cat test2.txt`
->ann,white,pizza,tea
+```
+ann,white,pizza,tea
 john,green,dumplings,coke
 simon,blue,nuggets,coffee
+```
 
 `join -t , test_joina.txt test_joina2.txt`
->ann,158,67,158,white,pizza,tea
+```
+ann,158,67,158,white,pizza,tea
 john,175,100,148,green,dumplings,coke
+```
 
 ## Comments
 &lt;file1&gt; and &lt;file2&gt; must be sorted on the join fields!
