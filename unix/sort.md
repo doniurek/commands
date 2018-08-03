@@ -34,28 +34,36 @@ Write sorted concatenation of all &lt;file(s)&gt; to standard output
 
 ## Example
 `cat zipcode`
->Adam  12345\
-Bob   34567\
-Joe   56789\
-Sam   45678\
+```
+Adam  12345
+Bob   34567
+Joe   56789
+Sam   45678
 Wendy 23456
+```
 
 `sort -nk 2 zipcode`
->Adam  12345\
-Wendy 23456\
-Bob   34567\
-Sam   45678\
+```
+Adam  12345
+Wendy 23456
+Bob   34567
+Sam   45678
 Joe   56789
+```
 
 `sort -k2,2 -t $'\t' phonebook`
->Fogarty, Suzie	555-2314\
-Doe, Jane	555-3214\
-Avery, Cory	555-4132\
+```
+Fogarty, Suzie	555-2314
+Doe, Jane	555-3214
+Avery, Cory	555-4132
 Smith, Brett	555-4321
+```
 
 `sort -rnk 2 zipcode`
->Joe   56789\
-Sam   45678\
-Bob   34567\
-Wendy 23456\
+```
+Joe   56789
+Sam   45678
+Bob   34567
+Wendy 23456
 Adam  12345
+```
