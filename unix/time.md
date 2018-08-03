@@ -30,7 +30,7 @@ Examples of possible format string:
 `%I` Number of filesystem inputs by the process\
 `%O` Number of filesystem outputs by the process
 
-## Example
+## Examples
 `time ls` (shell builtin variant of `time`)
 ```
 git.md  README.md  unix
