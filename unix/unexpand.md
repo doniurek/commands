@@ -13,7 +13,7 @@ Convert blanks in each &lt;file&gt; to tabs, writing to standard output.
 
 `-t <list>` use comma separated &lt;list&gt; of tab positions (enables `-a`)
 
-## Example
+## Examples
 `cat test.txt`
 ```
         Freestyler
