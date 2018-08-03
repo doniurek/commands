@@ -5,7 +5,7 @@ Write arguments to standard output
 ## Options
 `-e` enable interpretation of backslash escapes
 
-If `-e` is in effect, the following sequences are recognized:
+If `-e` is in effect, the following sequences are recognized:\
 `\\`     backslash\
 `\a`     alert (BEL)\
 `\b`     backspace\
