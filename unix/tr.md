@@ -18,32 +18,44 @@ Translate or delete characters
 open interactive session
 
 `Cheeki Breeki`
->Chi Bri
+```
+Chi Bri
+```
 
 `tr -s 'ae'`
 open interactive session
 
 `yeeeaaah boiiiiii`
->yeah boiiiiii
+```
+yeah boiiiiii
+```
 
 `tr 'lo' 'ke'`
 open interactive session
 
 `lol`
->kek
+```
+kek
+```
 
 `tr 'abcdef' 'xyz'`\
 `abcdef`
->xyzzzz
+```
+xyzzzz
+```
 
 `tr -t 'abcdef' 'xyz'`\
 `abcdef`
->xyzdef
+```
+xyzdef
+```
 
 `tr -cd '[:alnum:]'` removes all non-alphanumeric characters
 
 `echo "Bobby 175" | tr b m | tr -d [:digit:]`
->Mommy
+```
+Mommy
+```
 
 ## Comments
 Sets can be *POSIX* characters sets such as [:alnum:]. Full list of interpreted sequences is available on `tr` manual.
