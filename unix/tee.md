@@ -13,7 +13,7 @@ Copy standard input to each &lt;file&gt; and also to standard output
 
 `-p` diagnose errors writing to non pipes
 
-## Example
+## Examples
 `tee test.txt`
 open interactive session
 
