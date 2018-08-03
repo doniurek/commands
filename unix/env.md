@@ -13,10 +13,16 @@ To print out a list of all environment variables, simply run env without any arg
 `echo 'echo $HOME' > domek.sh`
 `chmod +x domek.sh`
 `./domek.sh`
->/home/donia
+```
+/home/donia
+```
 
 `env HOME='/root' ./domek.sh`
->/root
+```
+/root
+```
 
 `./domek.sh`
->/home/donia
+```
+/home/donia
+```
