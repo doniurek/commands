@@ -5,6 +5,7 @@ Find files
 `find` searches the directory tree rooted at each given starting-point. If no starting-point is specified, '.' (current directory) is assumed.
 
 `find [-H / -L / -P] <path> [expression]`
+
 The three options control how the `find` command should treat symbolic links. The default behaviour is never to follow symbolic links. This can be explicitly specified using the `-P` flag. The `-L` flag will cause the find command to follow symbolic links. The `-H` flag will only follow symbolic links while processing the command line arguments.
 
 Expression elements are whitespace-separated and evaluated from left to right. They can contain logical elements.
