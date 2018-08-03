@@ -2,7 +2,7 @@
 # `at`
 Execute commands at a specified time
 
-## Example
+## Examples
 `at 9:32 PM`
 ```
 warning: commands will be executed using /bin/sh
