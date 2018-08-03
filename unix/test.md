@@ -6,7 +6,7 @@ Evaluate expressions - compare values and check file types
 
 `test` returns a status of 0 (true) or 1 (false)
 
-## Example
+## Examples
 `cat test.sh`
 ```bash
 #!/bin/bash
