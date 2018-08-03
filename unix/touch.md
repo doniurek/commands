@@ -19,7 +19,7 @@ A &lt;file&gt; argument that does not exist is created empty (unless `-c` or `-h
 
 `-t <stamp>` use [[CC]YY]MMDDhhmm[.ss] instead of current time
 
-## Example
+## Examples
 `ls`
 ```
 git.md  README.md  unix
