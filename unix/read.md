@@ -19,7 +19,7 @@ The read command is used to get a line of input into a variable. Each argument m
 - 2 - standard error
 
 ## Example
-script.sh
+`cat script.sh`
 ```shell
 #!/bin/bash
 echo "Please enter your name and surname and press ENTER:"
@@ -28,11 +28,13 @@ echo "Hello $name $surname"
 ```
 
 `./script.sh`
->Please enter your name and surname and press ENTER:\
-Nicalas Cage\
+```
+Please enter your name and surname and press ENTER:
+Nicalas Cage
 Hello Nicalas Cage
+```
 
-script2.sh
+`cat script2.sh`
 ```shell
 #!/bin/bash
 read -u 0 name surname
@@ -40,4 +42,6 @@ echo "Hello $name $surname"
 ```
 
 `echo Barbara Streisand | ./script2.sh`
->Hello Barbara Streisand
+```
+Hello Barbara Streisand
+```
