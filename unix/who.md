@@ -10,7 +10,7 @@ Show who is logged on
 `-q` all login names and number of users logged on
 
 
-## Example
+## Examples
 `who`
 ```
 NAME     LINE         TIME             COMMENT
