@@ -11,7 +11,7 @@ Filter  adjacent  matching  lines from &lt;input&gt; (or standard input), writin
 
 `-u` only print unique lines
 
-## Example
+## Examples
 `cat badger.txt`
 ```
 Badger
