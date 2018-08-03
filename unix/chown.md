@@ -3,12 +3,16 @@
 Change the user and/or group ownership of each given file
 
 `chown <user>`
+
 `chown <user>:<group>`
+
 `chown :<group>`
 
 ## Options
 `-R` change files and directories recursively
+
 `-f` forge ahead with all objects even if errors occur
+
 `-v` show objects processed
 
 ## Examples
