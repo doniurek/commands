@@ -4,7 +4,7 @@ Split a file into pieces
 
 `split <file> [prefix]`
 
-Output  pieces  of  &lt;file&gt;  to [prefix]aa, [prefix]ab, etc.\
+Output  pieces  of  &lt;file&gt;  to *[prefix]aa*, *[prefix]ab*, etc.\
 Default size is 1000 lines, and default prefix is 'x'
 
 ## Options
@@ -33,4 +33,4 @@ Default size is 1000 lines, and default prefix is 'x'
 split file test.txt into 4 files: part00, part01, part02, part03 without splitting lines
 
 ## Comment
-The  &lt;size&gt;  argument is an integer and optional unit (example: 10K is 10*1024). Units are K,M,G,T,P,E,Z,Y (powers of 1024) or KB,MB,... (powers of 1000).
+The  &lt;size&gt; argument is an integer and optional unit (example: 10K is 10*1024). Units are K,M,G,T,P,E,Z,Y (powers of 1024) or KB,MB,... (powers of 1000).
