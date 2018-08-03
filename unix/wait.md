@@ -6,7 +6,9 @@ Suspend execution of the calling process until one of its children (background p
 
 ## Example
 `sleep 60 &`
->[2] 10066
+```
+[2] 10066
+```
 
 `wait 10066; exit`\
 in effect `exit` will take place after the termination of background process (10066)
@@ -15,5 +17,4 @@ in effect `exit` will take place after the termination of background process (10
 `;` separates distinct commands (faciliates writing two commands in the same line)
 
 ## Comment
-This command can be useful e.g. if you want to suspend
-termination of a program until the terminations of its subprograms
+This command can be useful e.g. if you want to suspend termination of a program until the terminations of its subprograms
