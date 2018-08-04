@@ -69,7 +69,7 @@
 | `pax` | Read and write file archives and copy directory hierarchies (supports e.g. tar format)|
 | `pr` | ?Paginate or columnate files for printing or compare two files side by side? |
 | [`printf`](printf.md) | Format and print data |
-| `ps` | Display the currently-running processes |
+| [`ps`](ps.md) | Display the currently-running processes |
 | `pwd` | Print the full filename of the current working directory |
 | [`read`](read.md) | Allows scripts to catch information entered by users interactively |
 | [`renice`](renice.md) | Change priority of running processes |
