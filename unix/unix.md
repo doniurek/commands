@@ -105,4 +105,4 @@
 | [`write`](write.md) | Send a message to another user's terminal |
 | [`xargs`](xargs.md) | Convert input from standard input into arguments to a command |
 
-\+ awk, bc, sed
+TODO: awk, bc, sed
