@@ -6,7 +6,10 @@
 
 `git status` Inspects the contents of the working directory and staging area
 
-`git add <filename>` Adds files from the working directory to the staging area (it's possible to add multiple files with a single command by writing next filenames separated with a space)
+`git add [options] <filename>` Adds files from the working directory to the staging area (it's possible to add multiple files with a single command by writing next filenames separated with a space)\
+`-p` Interactively choose hunks of content to add\
+`-A` (without \<filename\>) Stages all changes (new, modifed and deleted files)\
+`-u` (without \<filename\>) Stages all modifed and deleted files
 
 `git diff` Shows the difference between the working directory and the staging area
 
